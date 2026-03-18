@@ -24,4 +24,3 @@ Projects will be added regularly.
 
 👉 https://sahilsingh-js.github.io/number-guess-game/
 
-![Preview](../number-guess-game/GAME.png)
