@@ -19,8 +19,29 @@ Projects will be added regularly.
 - User input & validation
 - Dynamic UI updates (`textContent`, `classList`)
 
-### 🎮 Project
+### 🎮 made - Project
 **Number Guess Game**
 
 👉 https://sahilsingh-js.github.io/number-guess-game/
 
+📅 Day 4 — Stil working more on basics 
+
+---
+
+🧠 Learned
+
+* DOM manipulation (`getElementById`)
+* Event handling (`addEventListener`)
+* Input handling (`parseFloat`, `isNaN`)
+* Conditional logic (`if / else`)
+* Unit conversion logic (Celsius ↔ Fahrenheit ↔ Kelvin)
+* Handling edge cases (negative Kelvin)
+* Dynamic UI updates (`textContent`, `classList`)
+
+---
+
+🎮 made - Project
+
+Temperature Converter
+
+👉 https://sahilsingh-js.github.io/temperature-converter/
