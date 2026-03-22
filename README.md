@@ -24,7 +24,7 @@ Projects will be added regularly.
 
 👉 https://sahilsingh-js.github.io/number-guess-game/
 
-📅 Day 4 — Stil working more on basics 
+📅 Day 4 — Still working more on basics 
 
 ---
 
