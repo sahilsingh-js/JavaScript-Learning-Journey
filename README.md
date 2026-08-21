@@ -75,3 +75,6 @@ Worked more on the game even today - I love gaming and I am putting my everythin
 ---
 worked on the game the intro is now nearly complete - still has not pushed the code on GitHub cuz it was important to have 1st prototype before doing anything else.
 ---
+I have worked on the game even more - and the Intro is not complete with all the Visual polish and required interfaces for the game.
+<img width="1440" height="900" alt="Home" src="https://github.com/user-attachments/assets/52fd0b18-fe64-4d88-917b-3c7a1867f62a" />
+This one is the Home Screen image of the introduction
