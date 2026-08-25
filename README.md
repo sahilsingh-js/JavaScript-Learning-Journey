@@ -78,3 +78,9 @@ worked on the game the intro is now nearly complete - still has not pushed the c
 I have worked on the game even more - and the Intro is not complete with all the Visual polish and required interfaces for the game.
 <img width="1440" height="900" alt="Home" src="https://github.com/user-attachments/assets/52fd0b18-fe64-4d88-917b-3c7a1867f62a" />
 This one is the Home Screen image of the introduction
+---
+The Games multiplayer system is nearly done - the first version is already published the polished version will be in the final game - this is still the prototype phase where I'll making the individual roles and the skills that each pet has - The Map is yet to be designed - and constructed
+---
+Currently I would start working on the portfolio and the rest of the game will be made as I move forward - 
+---
+ 
