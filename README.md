@@ -83,4 +83,6 @@ The Games multiplayer system is nearly done - the first version is already publi
 ---
 Currently I would start working on the portfolio and the rest of the game will be made as I move forward - 
 ---
- 
+ # Portfolio Progress - 
+ The portfolio has been developing at a very fast pace - I think it'll be completed in a day or two if at the same rate - after the visual polish and optimisation is done I'll public the final portfolio - Its true AI has really made it faster to develop things however it still cannot calculate the vector ratio that is required for the Three js models to work the way u do - Manual survelliance is still superior and required. 
+---
